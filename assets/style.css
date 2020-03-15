@@ -1,14 +1,17 @@
 h1 {
     text-align: center;
     padding-top: 100px;
+    font-family: Merriweather;
 }
 
 h3 {
     text-align: center;
+    font-family: Merriweather;
 }
 
 h5 {
     text-align: center;
+    font-family: Merriweather;
 }
 
 .time {
@@ -17,4 +20,8 @@ h5 {
 
 #timer {
     text-align: center;
+}
+
+body {
+    background-image: url(grapes.jpg);
 }

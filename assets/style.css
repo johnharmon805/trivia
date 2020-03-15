@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 75px;
     font-family: Merriweather;
 }
 
@@ -24,4 +24,9 @@ h5 {
 
 body {
     background-image: url(grapes.jpg);
+    background-repeat: no-repeat;
+}
+
+h5 {
+    padding: 25px;
 }
